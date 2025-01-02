@@ -2,12 +2,15 @@ beautifulsoup4==4.12.3
 bs4==0.0.2
 certifi==2024.12.14
 charset-normalizer==3.4.1
+cloudscraper==1.2.71
 colorama==0.4.6
 coloredlogs==15.0.1
 humanfriendly==10.0
 idna==3.10
 lxml==5.3.0
+pyparsing==3.2.1
 pyreadline3==3.5.4
 requests==2.32.3
+requests-toolbelt==1.0.0
 soupsieve==2.6
 urllib3==2.3.0
